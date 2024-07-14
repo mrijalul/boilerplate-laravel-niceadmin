@@ -8,13 +8,13 @@
   git clone git@github.com:mrijalul/boilerplate-laravel-niceadmin.git
 ```
 
-# Copy .env
+## Copy .env
 
 ```bash
 cp .env-example .env
 ```
 
-# Run Composer
+## Run Composer
 
 ```bash
 composer install
