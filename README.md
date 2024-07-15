@@ -26,7 +26,7 @@ composer install
 -   Login Register Niceadmin
 -   Role Permission
 -   CRUD Ajax
--   Alertify
+-   Jquery Toast
 -   Sweetalert2
 
 ## Seeder
